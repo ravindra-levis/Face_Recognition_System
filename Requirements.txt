@@ -1,0 +1,3 @@
+OpenCV version: 4.8.1
+NumPy version: 1.24.3
+PyTorch version: 2.1.1+cpu
